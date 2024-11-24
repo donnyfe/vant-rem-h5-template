@@ -1,14 +1,14 @@
 {
-  "name": "vue3-vant-rem-h5-tpl",
+  "name": "donnyfe-tpl-h5-vant-rem",
   "description": "H5应用模板",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "author": "donnyfe",
-  "homepage": "https://github.com/donnyfe/vue3-vant-rem-h5-tpl",
+  "homepage": "https://github.com/donnyfe/donnyfe-tpl-h5-vant-rem",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/donnyfe/vue3-vant-rem-h5-tpl.git"
+    "url": "git+https://github.com/donnyfe/donnyfe-tpl-h5-vant-rem.git"
   },
   "license": "MIT",
   "scripts": {

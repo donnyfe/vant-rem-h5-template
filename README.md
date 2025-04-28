@@ -1,19 +1,12 @@
-# donnyfe-tpl-h5-vant-rem
+# vant-rem-h5-template
 
-技术栈：Vue3、Vant、UnoCSS、VueRouter、Pinia、Pinia-plugin-persistedstate、axios、
+## 项目简介
 
-## 项目特性
-
-- 使用Vue3进行开发
-- 使用Vant组件库
-- 使用UnoCSS进行样式管理
-- 使用rem单位，适配移动端
-- 使用VueRouter进行路由管理
-- 使用Pinia进行状态管理
-- 使用Pinia-plugin-persistedstate进行状态持久化
+这是一个基于Vue3、Vant、UnoCSS、VueRouter、Pinia、Pinia-plugin-persistedstate、axios的移动端模板项目。
 
 ## 项目结构
 
+```js
 ├── LICENSE
 ├── README.md
 ├── components.d.ts
@@ -40,3 +33,4 @@
 ├── tsconfig.node.json // ts配置
 ├── uno.config.ts // unocss配置
 └── vite.config.ts // vite配置
+```
